@@ -6,6 +6,108 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "paiva1@gmail.com",
+      "password": "$2a$10$jmpibBtynGU2t28JmiQYou324QI3qNjxygP/SlYDc/n0CD2ybjf9q",
+      "name": "KenzieGastrobar",
+      "id": 2
+    }
+  ],
+  "employees": [
+    {
+      "name": "william",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Jorge",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Jorge",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "Mateus",
+      "userId": 1,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Jorge",
+      "price": 12,
+      "imageUrl": "www.google.com",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Coca-cola",
+      "price": 12,
+      "imageUrl": "www.google.com",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Água",
+      "price": 2,
+      "imageUrl": "www.google.com",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "Água",
+      "price": 2,
+      "imageUrl": "www.google.com",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "name": "Macarão com queijo",
+      "price": 20,
+      "imageUrl": "www.google.com",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "name": "peixe frito",
+      "price": 25,
+      "imageUrl": "www.google.com",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "name": "batata doce",
+      "price": 14,
+      "userId": 1,
+      "id": 7
+    }
+  ],
+  "tables": [
+    {
+      "userId": 2,
+      "numberTable": 2,
+      "products": [
+        {
+          "name": "salsicha",
+          "price": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "numberTable": 4,
+      "products": [
+        {
+          "name": "peixe",
+          "price": 1
+        }
+      ],
+      "id": 3
     }
   ]
 }
